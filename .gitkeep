@@ -1,4 +1,0 @@
-/uploads/productos/*
-/uploads/usuarios/*
-!/uploads/productos/.gitkeep
-!/uploads/usuarios/.gitkeep
